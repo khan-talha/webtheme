@@ -33,7 +33,7 @@ params:
   profile_image: "/images/profile.png"
   name: "Example name"
   namecolor: ffc107
-  profession: "Profession"
+  profession: "Data Science & Analytics"
   github: "https://github.com"
   linkedin: "https://linkedin.com"
   twitter: "https://twitter.com/"
